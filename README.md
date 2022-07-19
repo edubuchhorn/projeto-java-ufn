@@ -14,8 +14,8 @@ Projeto Java&UFN
             MySQL
             Frontend
             CSS
-            avascript
-            BootstraP
+            javascript
+            Bootstrap
        
         Agradecimentos
             Agradecimento aos professores da UFN Herysson Figueiredo, Lucas Schlestein, Deivison Morim Pasa, todos
