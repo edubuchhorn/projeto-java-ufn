@@ -16,7 +16,7 @@ Projeto Java&UFN
             CSS
             javascript
             Bootstrap
-       
-        Agradecimentos
+            
+      Agradecimentos
             Agradecimento aos professores da UFN Herysson Figueiredo, Lucas Schlestein, Deivison Morim Pasa, todos
             os colegas que me ajudaram(Gustavo Andretto,Felipe Alves,Heron Farias) e a Atos Brasil por disponibilizar a Academia Java. #WeAreAtos
