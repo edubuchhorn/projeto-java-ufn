@@ -3,8 +3,8 @@ Projeto Java&UFN
         Desenvolvedor: Eduardo Buchhorn
       Https://github.com/edubuchhorn
         Este projeto tem por objetivo implementar um sistema de estoque no qual você pode cadastrar,listar e
-            remover produtos Com um leque de opções para ser implementado futuras atualizações</p>
-        <Tecnologias Implementadas
+            remover produtos Com um leque de opções para ser implementado futuras atualizações
+        Tecnologias Implementadas
             Backend
             Java
             JPA
